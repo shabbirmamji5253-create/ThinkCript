@@ -129,7 +129,7 @@ export const plans = [
   },
   {
     name: "Growth",
-    monthly: "Rs 5,500/month",
+    monthly: "Rs 10,499/month",
     description: "Premium strategy, production planning, and high-volume motion assets.",
     features: ["18 assets/month", "Storytelling", "Marketing Script", "Delivery in 3 days", "Vloging Availaible"],
   },
